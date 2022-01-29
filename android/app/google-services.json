@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216072714118",
+    "project_id": "schaffensoftware",
+    "storage_bucket": "schaffensoftware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216072714118:android:653e34bd4fc7c7db12de07",
+        "android_client_info": {
+          "package_name": "com.example.schaffen_software"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216072714118-ffe6pphq2kh4p6qvfgvppfv40bj8r4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWZrdevDENqzgmU3A7XZFSHiWS8UU55A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216072714118-ffe6pphq2kh4p6qvfgvppfv40bj8r4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
